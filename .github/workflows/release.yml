@@ -35,6 +35,7 @@ jobs:
             --exclude='.git' \
             --exclude='.github' \
             --exclude='.gitignore' \
+            --exclude='CLAUDE.md' \
             --exclude='_scratch' \
             --exclude='_comprehension' \
             --exclude='_retrospective_archive' \
